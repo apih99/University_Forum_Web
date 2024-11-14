@@ -1,0 +1,9 @@
+# Enable error display
+php_flag display_errors on
+php_value error_reporting E_ALL
+
+# Allow directory listing
+Options +Indexes
+
+# Set default character set
+AddDefaultCharset UTF-8
