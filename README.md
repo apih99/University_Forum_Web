@@ -32,6 +32,10 @@ This is a practice project developed to enhance my skills in:
 - 🎨 Modern UI/UX
 
 ## 🏗️ Project Structure
+You close the code block by using three backticks again:
+
+```
+```
 ```tree
 UPNM_Forum/
 ├── admin/ # Admin dashboard files
@@ -41,9 +45,9 @@ UPNM_Forum/
 ├── js/ # JavaScript files
 ├── uploads/ # User uploaded content
 └── index.php # Main entry point
-
-'''
-
+```
+```
+```
 
 ## 🔧 Database Schema
 
