@@ -1,6 +1,6 @@
 # 🎓 UPNM Forum
 
-A dynamic forum platform built for the National Defence University of Malaysia (UPNM) community. This project serves as a learning experience in PHP development and database management.
+A dynamic forum platform built for the university community. This project serves as a learning experience in PHP development and database management.
 
 ![Example of the home interface](images/Home.PNG)
 
